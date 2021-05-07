@@ -12,12 +12,12 @@
     ],
     "require": {
         "php": ">=5.3.9",
-        "symfony/dependency-injection": "~2.3|~3.0|~4.4",
-        "symfony/config": "~2.3|~3.0|~4.4",
-        "symfony/filesystem": "~2.3|~3.0|~4.4",
-        "symfony/http-kernel": "~2.3|~3.0|~4.4",
-        "symfony/class-loader": "~2.3|~3.0|~4.4",
-        "symfony/process": "~2.3|~3.0|~4.4",
+        "symfony/dependency-injection": "~2.3|~3.0|^4.4",
+        "symfony/config": "~2.3|~3.0|^4.4",
+        "symfony/filesystem": "~2.3|~3.0|^4.4",
+        "symfony/http-kernel": "~2.3|~3.0|^4.4",
+        "symfony/class-loader": "~2.3|~3.0|^4.4",
+        "symfony/process": "~2.3|~3.0|^4.4",
         "sensiolabs/security-checker": "~5.0|~6.0"
     },
     "autoload": {
